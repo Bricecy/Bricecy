@@ -4,3 +4,4 @@
 - C
 - Python
 - MySQL
+- JavaScript
