@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bricecy
-
-<!---
-Bricecy/Bricecy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Brigid Wambua
+- Am A Student at Holberton School Pursuing my Software Engineering Program.
+- I have the Knowledge on the following Languages:
+- C
+- Python
+- MySQL
