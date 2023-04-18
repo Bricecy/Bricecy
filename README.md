@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Brigid Wambua
-- Am A Student at Holberton School Pursuing my Software Engineering Program.
 - I have the Knowledge on the following Languages:
 - C
 - Python
